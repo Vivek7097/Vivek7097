@@ -1,4 +1,5 @@
-[[!MasterHead](https://www.epmacau.edu.mo/wp-content/uploads/2020/10/under-development.gif)](https://www.linkedin.com/in/vivek-kumar-ba017b213/)
+
+[![MasterHead].(https://www.epmacau.edu.mo/wp-content/uploads/2020/10/under-development.gif)].(https://www.linkedin.com/in/vivek-kumar-ba017b213/)
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt='Coding' width='400>
